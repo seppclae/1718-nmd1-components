@@ -13,3 +13,16 @@
     color: rgb(0,96,100);
     background: rgb(77,208,225);
 }
+
+
+.btn--primary {
+
+    background-color: blue;
+    border-radius: 5px;
+
+}
+
+.btn--secondary {
+
+
+}
