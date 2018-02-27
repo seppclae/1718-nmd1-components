@@ -2,5 +2,11 @@
     border: 1px solid #f60;
     background-color: #6f0;
     padding: 8px 16px;
+    text-decoration: none;
 
+}
+
+.btn:hover {
+    border: #6f0;
+    background: #f60;
 }
