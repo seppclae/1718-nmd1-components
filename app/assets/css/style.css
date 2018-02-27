@@ -1,12 +1,13 @@
 .btn {
-    border: 1px solid #f60;
-    background-color: #6f0;
+    border: 1px solid rgb(77,208,225);
+    background-color: rgb(0,96,100);
+    color: rgb(77,208,225);
     padding: 8px 16px;
     text-decoration: none;
 
 }
 
 .btn:hover {
-    border: #6f0;
-    background: #f60;
+    border: rgb(0,96,100);
+    background: rgb(77,208,225);
 }
